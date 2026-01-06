@@ -18,6 +18,17 @@ This project focuses on architecture, safety, and correctness, not on connecting
 - Input sanitization and security checks
 - Audit logging for compliance tracking
 - Modular and extensible design.
+
+## Architecture
+```
+payroll_intelligence_assistant/
+├── README.md                       # Project overview & architecture
+└── src/
+    ├── app.py                     # Application entry point & controller
+    └── engine/
+        ├── prompt_engine.py       # Role-based logic & jurisdiction handling
+        └── privacy_guard.py       # Security, PII masking & audit logging
+```
   
 ## Roles Supported
 
