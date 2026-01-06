@@ -18,17 +18,7 @@ This project focuses on architecture, safety, and correctness, not on connecting
 - Input sanitization and security checks
 - Audit logging for compliance tracking
 - Modular and extensible design.
-
-## Project Structure
-
-payroll_intelligence_assistant/
-├── README.md
-└── src/
-├── app.py
-└── engine/
-├── prompt_engine.py
-└── privacy_guard.py
-
+  
 ## Roles Supported
 
 - Employee  
