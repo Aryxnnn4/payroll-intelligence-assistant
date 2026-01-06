@@ -68,9 +68,9 @@ payroll_intelligence_assistant/
 7. Audit log is created
 
 ## Running the Project
-
+```
 python src/app.py --demo
-
+```
 ## Disclaimer
 
 This project is for educational purposes only and does not provide legal, tax, or financial advice.
