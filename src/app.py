@@ -1,7 +1,3 @@
-"""
-Payroll Intelligence Assistant
-Main application controller
-"""
 
 import sys
 import os
